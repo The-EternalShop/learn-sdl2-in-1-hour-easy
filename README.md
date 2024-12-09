@@ -4,7 +4,7 @@ Wanna learn SDL2? You can learn it here!
 
 ## Step 1: Set Up Your Build Environment
 
-Install SDL2 and, um, probably SDL_image if you're unlucky, and also use brew and the official installation for maximum compatibility, not like that will do anything bad (forshadowing). Then copy and paste this code into a file called Makefile or else:
+Install SDL2 and, SDL_image if you're unlucky, and also use brew and the official installation for maximum compatibility, not like that will do anything bad (foreshadowing). Then copy and paste this code into a file called Makefile or else:
 
 ```Makefile
 main: $(wildcard *.cpp)
@@ -13,11 +13,11 @@ main: $(wildcard *.cpp)
 
 ## Step 2: Make Sure You're Running This On A Mac
 
-If you are running this on a non-Mac, then, um, bad things will happen. Also try to replicate step 1 exactly, if you get my drift.
+If you are running this on a non-Mac, then, umm, bad things will happen.(We not sayin what) Also try to replicate step 1 exactly, if you get my drift.
 
 ## Step 3: Copy the File
 
-Should be the easiest step; this is just as comprehendable as, um, Spanish?
+Should be the easiest step; this is just as comprehendable as, Spanish?
 
 ```cpp
 #include <SDL2/SDL.h>
@@ -78,4 +78,4 @@ int main(int argc, char* argv[]) {
 
 ## Step 4: Run This Command
 
-`make; ./main` If this fails, good luck! Ok bye for now!
+`make; ./main` If this fails, good luck! Ok bye for now! Yeah we don't care if your compter crashes because you ran it on a non-Mac
