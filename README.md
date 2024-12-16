@@ -78,4 +78,4 @@ int main(int argc, char* argv[]) {
 
 ## Step 4: Run This Command
 
-`make; ./main` If this fails, good luck! Ok bye for now! Yeah we don't care if your compter crashes because you ran it on a non-Mac
+`make; ./main` If this fails, good luck! Ok bye for now! And we don't care if your computer crashes becasue you did this on a non-Mac!
